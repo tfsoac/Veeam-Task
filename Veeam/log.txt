@@ -1,0 +1,5 @@
+06-07-2024 18:35: Synchronization started.
+06-07-2024 18:35: Synchronization completed.
+06-07-2024 18:43: Synchronization started.
+06-07-2024 18:43: Deleted file: C:\Users\carvalho_t2\Downloads\Veeam\B\Novo Microsoft Excel Worksheet.xlsx
+06-07-2024 18:43: Synchronization completed.

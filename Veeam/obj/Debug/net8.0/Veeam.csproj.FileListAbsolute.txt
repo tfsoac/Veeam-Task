@@ -1,0 +1,14 @@
+C:\Users\carvalho_t2\Downloads\Veeam\bin\Debug\net8.0\Veeam.exe
+C:\Users\carvalho_t2\Downloads\Veeam\bin\Debug\net8.0\Veeam.deps.json
+C:\Users\carvalho_t2\Downloads\Veeam\bin\Debug\net8.0\Veeam.runtimeconfig.json
+C:\Users\carvalho_t2\Downloads\Veeam\bin\Debug\net8.0\Veeam.dll
+C:\Users\carvalho_t2\Downloads\Veeam\bin\Debug\net8.0\Veeam.pdb
+C:\Users\carvalho_t2\Downloads\Veeam\obj\Debug\net8.0\Veeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carvalho_t2\Downloads\Veeam\obj\Debug\net8.0\Veeam.AssemblyInfoInputs.cache
+C:\Users\carvalho_t2\Downloads\Veeam\obj\Debug\net8.0\Veeam.AssemblyInfo.cs
+C:\Users\carvalho_t2\Downloads\Veeam\obj\Debug\net8.0\Veeam.csproj.CoreCompileInputs.cache
+C:\Users\carvalho_t2\Downloads\Veeam\obj\Debug\net8.0\Veeam.dll
+C:\Users\carvalho_t2\Downloads\Veeam\obj\Debug\net8.0\refint\Veeam.dll
+C:\Users\carvalho_t2\Downloads\Veeam\obj\Debug\net8.0\Veeam.pdb
+C:\Users\carvalho_t2\Downloads\Veeam\obj\Debug\net8.0\Veeam.genruntimeconfig.cache
+C:\Users\carvalho_t2\Downloads\Veeam\obj\Debug\net8.0\ref\Veeam.dll
